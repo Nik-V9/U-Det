@@ -1,6 +1,6 @@
 # U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation
 
-This repository contains the source code for the Paper titled "U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation". The source code contains the implementations for Testing and Training U-Det Deep Learning Model for Pulmonary Nodule Segmentation. The repository also contains the code for Data augmentations and Data Loaders for converting 3-D CT scan data to appropriate Slices of size 512*512. The techinal details and findings of the paper are available at the following link
+This repository contains the source code for the Paper titled "U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation". The source code contains the implementations for Testing and Training U-Det Deep Learning Model for Pulmonary Nodule Segmentation. The repository also contains the code for Data augmentations and Data Loaders for converting 3-D CT scan data to appropriate Slices of size 512*512. The techinal details and findings of the paper are available at the following link:
 
 Arxiv Link: https://arxiv.org/abs/2003.09293
 
