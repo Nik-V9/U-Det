@@ -39,7 +39,8 @@ The Technical Details and Code Demo shall be updated soon! Make sure you check i
 
 If you use any part of the code for any research implementation or project please do cite us, it would help out a lot. The citation is as follows:
 
-'''
+```
+
 @misc{keetha2020udet,
     title={U-Det: A Modified U-Net architecture with bidirectional feature network for lung nodule segmentation},
     author={Nikhil Varma Keetha and Samson Anosh Babu P and Chandra Sekhara Rao Annavarapu},
@@ -49,8 +50,8 @@ If you use any part of the code for any research implementation or project pleas
     primaryClass={eess.IV}
 }
 
-'''
-Also the paper is currently under review at Springer Journal of Medical Systems.
+```
+The Pre-Print is currently under review at Springer Journal of Medical Systems.
 
 ## License
 
