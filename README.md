@@ -35,6 +35,12 @@ The structure of the repository is represented below :
 
 The Technical Details and Code Demo shall be updated soon! Make sure you check it out once it's updated!
 
+## Data Structure and Pre-Processing
+
+The dataset structure is the same as the one available at https://luna16.grand-challenge.org/Data/ . Additionally, Inside the data root folder (i.e. where you have your data stored) you should have two folders: one called imgs and one called masks. The imgs and masks folders should contain the slice images and segmentation masks after preprocessing the '.mhd' CT files and annotations for lung nodules. All models, results, etc. are saved to this same root directory. The argument --data_root_dir is the only required argument and should be set to the directory containing your imgs and masks folders.
+
+The LUNA16 Data is pre-processed into images and masks with the help of RadIO python library. The required resources are present here: https://analysiscenter.github.io/radio/intro/preprocessing.html
+
 ## Citation
 
 If you use any part of the code for any research implementation or project please do cite us, it would help out a lot. The citation is as follows:
